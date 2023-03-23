@@ -787,7 +787,7 @@ blockquote span {
     }
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (max-width: 540px) {
     .header {
         padding-bottom: 30px;
     }
