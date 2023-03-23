@@ -850,19 +850,19 @@ blockquote span {
     }
     .main-about {
         display: flex;
-        flex-direction: row;
-        width: 100%;
+        flex-direction: column;
+        
     }
     .main-about img {
         width: 300px;
         margin-left: 5px;
     }
     .abouts-text {
-        width: 60%;
+        width: 300px;
     }
 
     .abouts-text h1 {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     .abouts-text h3 {
