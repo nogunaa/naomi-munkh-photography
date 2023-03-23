@@ -493,8 +493,12 @@ blockquote span {
     color: var(--white);
 }
 
-.contact-middle div span {
+.contact-middle div a {
     display: block;
+}
+
+.contact-middle div p {
+    color: var(--white);
 }
 
 .contact-icon {
