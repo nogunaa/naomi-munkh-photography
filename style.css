@@ -850,7 +850,7 @@ blockquote span {
     }
     .main-about {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         width: 100%;
     }
     .main-about img {
