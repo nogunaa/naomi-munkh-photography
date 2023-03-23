@@ -851,14 +851,14 @@ blockquote span {
     .main-about {
         display: flex;
         flex-direction: column;
-        width: 60%;
+        width: 100%;
     }
     .main-about img {
         width: 300px;
         margin-left: 5px;
     }
     .abouts-text {
-        width: 100%;
+        width: 60%;
     }
 
     .abouts-text h1 {
